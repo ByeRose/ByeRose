@@ -7,7 +7,8 @@
 <!---
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeRose&layout=compact&theme=chartreuse-dark)]()
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByeRose&repo=reproducing&theme=midnight-purple)](https://github.com/ByeRose/reproducing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByeRose&repo=awesome-sec-notes&theme=midnight-purple)](https://github.com/ByeRose/awesome-sec-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByeRose&repo=reproducing_LDoS&theme=midnight-purple)](https://github.com/ByeRose/reproducing_LDoS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByeRose&repo=writeups-ctf&theme=chartreuse-dark)](https://github.com/ByeRose/writeups-ctf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByeRose&repo=BinaryDatabase&theme=chartreuse-dark)](https://github.com/ByeRose/BinaryDatabase)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByeRose&repo=awesome-sec-notes&theme=midnight-purple)](https://github.com/ByeRose/awesome-sec-notes)
+
