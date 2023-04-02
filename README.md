@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=byerose&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=byerose&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=byerose&theme=darcula&hide_border=true&background=FFFFFF00">
