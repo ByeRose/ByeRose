@@ -1,6 +1,6 @@
 
 <p align="center">
-  - Trustworthy Machine Learning
+  - Trustworthy Machine Learning</br>
   - Security
 </p> 
 <p>
